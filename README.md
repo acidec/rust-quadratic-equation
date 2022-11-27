@@ -21,18 +21,18 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 Get the source code by using Git or download the zip.
 ```bash
-$ git clone https://github.com/acidec/rust-quadratic-equation.git
+git clone https://github.com/acidec/rust-quadratic-equation.git
 ```
 It's time to run the program!
 ```bash
-$ cd rust-quadratic-equation
-$ cargo build
-$ cargo run
+cd rust-quadratic-equation
+cargo build
+cargo run
 ```
 ### macOS
 You should get the Command Line Tools(CLT) for Xcode.
 ```bash
-$ xcode-select --install
+xcode-select --install
 ```
 Then run the following command to get Rust:
 ```bash
@@ -40,11 +40,11 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 Get the source code by using Git or download the zip.
 ```bash
-$ git clone https://github.com/acidec/rust-quadratic-equation.git
+git clone https://github.com/acidec/rust-quadratic-equation.git
 ```
 It's time to run the program!
 ```bash
-$ cd rust-quadratic-equation
-$ cargo build
-$ cargo run
+cd rust-quadratic-equation
+cargo build
+cargo run
 ```
