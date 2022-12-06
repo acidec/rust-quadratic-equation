@@ -1,7 +1,7 @@
 # rust-quadratic-equation
 Solution of quadratic equation in Rust language.
 
-**The principle is on my [website](https://acidec.github.io/2022/11/04/rust-quadratic-equation/). (Simplified Chinese only)**
+**The principle is on my [website](https://acidec.github.io/2022/11/04/rust-quadratic-equation/).**
 ## Supported operating system
 All operating systems with [Rust](https://rust-lang.org) installed.
 ## Build and run
